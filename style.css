@@ -54,7 +54,7 @@ nav img{
     width: 100%;
     
 }
- nav .fa-xmark{
+ nav .fa-xmark ,.fa-bars{
     display: none;
 }
 .text-box{
